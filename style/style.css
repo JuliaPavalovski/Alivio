@@ -80,3 +80,42 @@ body {
 .footer ul li:last-child {
     margin-bottom: 0px;
 }
+.info_text {
+    padding-top: 170px;
+    width: 1391px;
+    height: 327px;
+}
+.info_text h4{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 157%;
+    color: #424242;
+}
+.info_text h1{
+    font-family: var(--second-family);
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 157%;
+    color: #01996d;
+}
+.info_text p{
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    color: #424242;
+}
+
+.services_items {
+    padding-top: 415px;
+}
+.personalize {
+
+}
+.write_understand {
+
+}
+.alivio {
+
+}
